@@ -19,13 +19,13 @@
 
 
   // navbarDropdown
-	if ($(window).width() < 992) {
-		$('#navigation .dropdown-toggle').on('click', function () {
-			$(this).siblings('.dropdown-menu').animate({
-				height: 'toggle'
-			}, 300);
-		});
-  }
+	// if ($(window).width() < 992) {
+	// 	$('#navigation .dropdown-toggle').on('click', function () {
+	// 		$(this).siblings('.dropdown-menu').animate({
+	// 			height: 'toggle'
+	// 		}, 300);
+	// 	});
+  // }
   
   //Hero Slider
   $('.hero-slider').slick({
@@ -171,15 +171,15 @@
   // -----------------------------
   //  On Scroll
   // -----------------------------
-  $(window).scroll(function () {
-    counter();
+  // $(window).scroll(function () {
+  //   counter();
 
-    var scroll = $(window).scrollTop();
-    if (scroll > 50) {
-      $('.navigation').addClass('sticky-header');
-    } else {
-      $('.navigation').removeClass('sticky-header');
-    }
-  });
+  //   var scroll = $(window).scrollTop();
+  //   if (scroll > 50) {
+  //     $('.navigation').addClass('sticky-header');
+  //   } else {
+  //     $('.navigation').removeClass('sticky-header');
+  //   }
+  // });
 
 })(jQuery);
