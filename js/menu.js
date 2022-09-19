@@ -19,23 +19,23 @@ let miMenu = function() {
   
         <div class="collapse navbar-collapse" id="navigation">
           <ul class="navbar-nav ml-auto text-center">
-            <li class="nav-item dropdown active">
-              <a class="nav-link dropdown-toggle" href="#!" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <li class="nav-item">
+              <a class="nav-link dropdown-toggle" href="index.html" aria-haspopup="true" aria-expanded="false">
                 Inicio 
               </a>
               
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="about.html">Propuesta formativa</a>
+              <a class="nav-link" href="service.html">Propuesta formativa</a>
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="service.html">Biblioteca</a>
+              <a class="nav-link" href="biblioteca.html">Biblioteca</a>
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="portfolio.html">Presentación</a>
+              <a class="nav-link" href="about.html">Presentación</a>
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="portfolio.html">Galería</a>
+              <a class="nav-link" href="galeria.html">Galería</a>
             </li>
   
             <li class="nav-item ">
