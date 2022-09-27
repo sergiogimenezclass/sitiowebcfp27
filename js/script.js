@@ -35,9 +35,9 @@
     prevArrow: '<button type=\'button\' class=\'prevArrow\'></button>',
     nextArrow: '<button type=\'button\' class=\'nextArrow\'></button>',
     dots: false,
-    autoplaySpeed: 7000,
+    autoplaySpeed: 90000,
     pauseOnFocus: false,
-    pauseOnHover: false
+    pauseOnHover: true
   });
   $('.hero-slider').slickAnimation();
 
