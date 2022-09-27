@@ -26,7 +26,7 @@ let miMenu = function() {
               
             </li>
             <li class="nav-item ">
-              <a class="nav-link" href="service.html">Propuesta formativa</a>
+              <a class="nav-link" href="trayectos-formativos.html">Propuesta formativa</a>
             </li>
             <li class="nav-item ">
               <a class="nav-link" href="biblioteca.html">Biblioteca</a>
