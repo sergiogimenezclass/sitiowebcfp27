@@ -32,7 +32,7 @@ let miMenu = function() {
             </a>
             <ul class="dropdown-menu show" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="trayectos-formativos.html">Trayectos</a></li>
-              <li><a class="dropdown-item" href="">Cursos</a></li>
+              <li><a class="dropdown-item" href="#">Cursos</a></li>
             </ul>
           </li>
             <li class="nav-item ">
