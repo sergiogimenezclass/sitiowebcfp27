@@ -26,7 +26,7 @@ let miMenu = function() {
               
             </li>
 
-            <li class="nav-item dropdown active show">
+            <li class="nav-item dropdown show">
             <a class="nav-link dropdown-toggle" href="#!" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
             Propuesta formativa <i class="tf-ion-chevron-down"></i>
             </a>
